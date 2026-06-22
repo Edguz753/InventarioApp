@@ -9,6 +9,7 @@
   <AssemblyName>InventarioApp</AssemblyName>
   <RootNamespace>InventarioApp</RootNamespace>
   <Version>1.0.0</Version>
+  <author>EdwinGuzman</author>
   <Description>Aplicación de inventario para gestionar productos y stock.</Description>
 </PropertyGroup>
 
